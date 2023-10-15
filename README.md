@@ -6,9 +6,9 @@
     <br>
     <br>
     <br>
-    <img src="screenshot1.png" />
+    <img src="screenshots/screenshot1.png" />
     <br>
     <br>
     <br>
-    <img src="screenshot2.png" />
+    <img src="screenshots/screenshot2.png" />
 </div>
